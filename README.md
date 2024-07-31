@@ -71,8 +71,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ameer-hamza-5334192a0/"><img src="https://img.shields.io/badge/-Anus%20Khalil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:berrymalik7210@gmail.com"><img src="https://img.shields.io/badge/-anuskhalil77@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ameer-hamza-5334192a0/"><img src="https://img.shields.io/badge/-Ameer%20Hamza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:berrymalik7210@gmail.com"><img src="https://img.shields.io/badge/-berrymalik7210@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://www.instagram.com/anuskhalil007/"><img src="https://img.shields.io/badge/-@anuskhalil007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
  </p>
  
