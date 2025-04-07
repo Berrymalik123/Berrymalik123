@@ -11,7 +11,7 @@
 
 
 
-🔥 AI Chatbot & MERN Stack Consultant 
+🔥 AI Chatbot & Front-end Developer & UI UX Designer 
 
 ✨ Favorite Tech: Dialogflow CX and ES, React JS, JavaScript, Node JS, Alan AI, Flowise, Pinecone, MongoDB, Voice Flow
 
